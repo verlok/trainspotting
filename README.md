@@ -1,7 +1,3 @@
-# Trainspotting
-
-A list of links to Tranitalia's train status page
-
 Imola - Bologna
 
 ## [7:21](http://www.viaggiatreno.it/viaggiatrenomobile/pages/cercaTreno/cercaTreno.jsp?treno=2276&origine=S05071)
