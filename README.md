@@ -1,11 +1,3 @@
-<!-- Useful to have startup icons! -->
-<link rel="apple-touch-icon" sizes="180x180" href="/trainspotting/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/trainspotting/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/trainspotting/favicon-16x16.png">
-<link rel="manifest" href="/trainspotting/manifest.json">
-<link rel="mask-icon" href="/trainspotting/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="theme-color" content="#ffffff">
-
 Imola - Bologna
 
 ## [7:21](http://www.viaggiatreno.it/viaggiatrenomobile/pages/cercaTreno/cercaTreno.jsp?treno=2276&origine=S05071)
